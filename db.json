@@ -1,0 +1,15 @@
+{
+"products":[
+     {"id":1,"productName":"iPhone","price":1500,"quantity":0},
+     {"id":2,"productName":"sony camera","price":500,"quantity":0},
+     {"id":3,"productName":"Samsung QLED TV","price":1200,"quantity":0},
+     {"id":4,"productName":"iPad Pro","price":1700,"quantity":0},
+     {"id":5,"productName":"Xbox","price":1100,"quantity":0},
+     {"id":6,"productName":"Dell Monitor","price":200,"quantity":0}   
+],
+"users":[
+    { "id":1 ,"email":"facf3006@gmail.com", "password":"facf7876216a"},
+    { "id":2 ,"email":"facf2006@hotmail.com", "password":"facf7876216"}
+]
+
+}
