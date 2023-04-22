@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 import {BrowserRouter,Routes , Route} from 'react-router-dom'
 
 import NavBar from "./NavBar";
@@ -9,8 +9,8 @@ import Dashboard from "./Dashboard";
 import NoMatchPage from "./NoMatchPage";
 
 
-export default class App extends Component {
-    render() {
+export default function App  () {
+    
         return (
             <BrowserRouter>   
             <NavBar/>
@@ -26,4 +26,3 @@ export default class App extends Component {
           </BrowserRouter>
           )
     } 
-}

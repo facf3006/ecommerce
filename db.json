@@ -8,8 +8,8 @@
      {"id":6,"productName":"Dell Monitor","price":200,"quantity":0}   
 ],
 "users":[
-    { "id":1 ,"email":"facf3006@gmail.com", "password":"facf7876216a"},
-    { "id":2 ,"email":"facf2006@hotmail.com", "password":"facf7876216"}
+    { "id":1 ,"email":"f006@gmail.com", "password":"123"},
+    { "id":2 ,"email":"f006@hotmail.com", "password":"456"}
 ]
 
 }
