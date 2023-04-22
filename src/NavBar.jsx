@@ -1,8 +1,8 @@
-import React,{ Component } from "react";
+import React from "react";
 import {Link} from "react-router-dom"
 
-export default class NavBar extends Component {
-    render () {
+export default function NavBar () {
+    
         return (
             <React.Fragment>
            <nav className="navbar navbar-expand-lg navbar-dark bg-dark navbar-style">
@@ -35,4 +35,4 @@ export default class NavBar extends Component {
             </React.Fragment>
 
         );
-}}
+}
